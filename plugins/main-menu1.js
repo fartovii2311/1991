@@ -1,6 +1,6 @@
 let handler = async (m, { isPrems, conn }) => {
 
-let img = 'https://masterpiecer-images.s3.yandex.net/8b141c383f5611eeb12e6a2aaa288599:upscaled' 
+let img = 'https://sun9-79.userapi.com/impg/c855136/v855136455/1bab38/3FxvWmpUuNg.jpg?size=320x240&quality=96&sign=914c532b2f7ff7c14ed8d9a258361d3a&c_uniq_tag=-Rd0mo3jrWa2mIH_eDyyyyjVR1PXxAQvcllOb2h2E6c&type=album' 
 let texto = `🌟 𝐌𝐄𝐍𝐔2 🌟
 *˚₊·˚₊· ͟͟͞͞➳❥ @+${m.sender.split("@")[0]}*
 > ┆ *│* ┊▸ ✦ 

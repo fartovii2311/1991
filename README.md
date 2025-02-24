@@ -16,11 +16,11 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/fartovii2311/111
+git clone https://github.com/fartovii2311/1991
 ```
 
 ```bash
-cd 111
+cd 1991
 ```
 
 ```bash
